@@ -1,1 +1,1 @@
-# cs-bw-knn
+# KNearest Neighbors from scratch
